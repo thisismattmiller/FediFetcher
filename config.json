@@ -2,5 +2,6 @@
   "server": "ebooks.social",
   "home-timeline-length": 200,
   "max-followings": 80,
+  "http-timeout": 10,
   "from-notifications": 1
 }
